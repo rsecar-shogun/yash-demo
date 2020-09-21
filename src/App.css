@@ -1,0 +1,17 @@
+.App {
+  margin-top: 0px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.App .container{
+  align-content: left
+}
+
+.App-logo {
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
